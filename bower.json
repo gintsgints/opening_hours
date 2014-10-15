@@ -1,0 +1,25 @@
+{
+  "name": "opening_hours",
+  "version": "3.0.0",
+  "homepage": "https://github.com/ypid/opening_hours.js",
+  "authors": [
+    "Dmitry Marakasov",
+    "Robin `ypid` Schneider"
+  ],
+  "description": "Library to parse and process opening_hours tag from OpenStreetMap data.",
+  "main": [
+    "opening_hours.js",
+    "suncalc.js"
+  ],
+  "keywords": [
+    "osm"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
